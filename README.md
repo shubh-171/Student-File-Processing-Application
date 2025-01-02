@@ -17,10 +17,15 @@ In the development of the Student Information Processing System, I followed the 
 The key SDLC concepts used are:
 
 **Requirement Analysis**: Understanding and gathering the requirements for managing student information, course enrollment, and grade tracking.
+
 **System Design**: Creating a system design that incorporates a modular approach, with a focus on object-oriented principles such as encapsulation and abstraction for maintainability and scalability.
+
 **Implementation**: Writing the Java code that implements the design, ensuring proper class structures, and incorporating core functionalities like student registration, course management, and grade tracking.
+
 **Testing**: Testing individual components to ensure that each function, such as student enrollment and grade recording, works as expected.
+
 **Deployment**: Compiling and running the code to provide the system's core functionalities for user interaction.
+
 **Maintenance**: The system is designed to be flexible for future updates, such as adding a graphical user interface (GUI) or integrating a database for persistent storage.
 
 # Object-Oriented Programming (OOP): 
