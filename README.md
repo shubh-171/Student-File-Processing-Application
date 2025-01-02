@@ -16,6 +16,7 @@ Grade Tracking: Record and display student grades for each course.
 Java: The core programming language for implementing the system.
 
 **Object-Oriented Programming (OOP)**: 
+
 The system follows OOP principles, including:
 
 Encapsulation: Data and behavior are bundled together into classes. For example, Student class encapsulates student-related data and operations.
